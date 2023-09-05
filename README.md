@@ -25,11 +25,6 @@ I am a 21 year old student of Social Work, Homelabber, and avid gamer looking to
   <h3 align="center">Learning Skills</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92035787a/icons/javascript/javascript-plain.svg" width="35" title="JavaScript" alt="JavaScript" width="35" height="35"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92035787a/icons/typescript/typescript-original.svg" width="35" title="TypeScript" alt="TypeScript" width="35" height="35"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92035787a/icons/discordjs/discordjs-original.svg" width="35" title="Discord.JS" alt="Discord.JS" width="35" height="35"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92035787a/icons/python/python-original.svg" width="35" title="Python" alt="Python" width="35" height="35"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92035787a/icons/raspberrypi/raspberrypi-original.svg" width="35" title="Raspberry Pi" alt="Raspberry Pi" width="35" height="35"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92035787a/icons/docker/docker-original.svg" width="35" title="Docker Compose" alt="Docker" width="35" height="35"/>
   </p>
 </div>
 
