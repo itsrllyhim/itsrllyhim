@@ -4,6 +4,8 @@
 
 <h2 align="center">but who is he?</h2>
 
+<h3 align="center">🇹🇳 🇺🇸</h3>
+
 I am a 21 year old student of Social Work, Homelabber, and avid gamer looking to expand my skillset for personal use cases. I do not consider myself a developer or particularly knowledgeable of most tech-related concepts- but every day is an opportunity to learn more!
 
 *Note: My prounouns are he and they! I do not go by any other pronouns. Thank you for understanding!*
@@ -38,5 +40,3 @@ I am a 21 year old student of Social Work, Homelabber, and avid gamer looking to
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsrllyhim&theme=ayu-light&hide_border=true&border_radius=3.8&card_width=600)](https://git.io/streak-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrllyhim&layout=compact&theme=ayu-light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center">🇹🇳 🇺🇸</h3>
