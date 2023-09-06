@@ -46,9 +46,9 @@ I am a 21 year old student of Social Work, Homelabber, and avid gamer looking to
 <div align="center">
     <h3>My Github Stats</h3>
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=itsrllyhim" alt="GitHub Streak" width=auto height=145px/>
+        <img src="https://streak-stats.demolab.com/?user=itsrllyhim" alt="GitHub Streak" width=auto height=125px/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrllyhim" alt="GitHub Languages" width=auto height=145px/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrllyhim" alt="GitHub Languages" width=auto height=125px/>
     </a>
 </div>
