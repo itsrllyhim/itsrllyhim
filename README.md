@@ -2,6 +2,12 @@
   <img src="https://media.discordapp.net/attachments/494590304612122624/1148741536855638128/banner.png" width="fit-content"/>
 </div>
 
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://img.shields.io/github/followers/itsrllyhim?label=github%20followers&style=for-the-badge&labelColor=%236c4045&color=%23db9d94" alt="GitHub Follower Count">
+    </a>
+</div>
+
 <h2 align="center">but who is he?</h2>
 
 <h3 align="center">🇹🇳 🇺🇸</h3>
@@ -37,6 +43,12 @@ I am a 21 year old student of Social Work, Homelabber, and avid gamer looking to
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsrllyhim&theme=ayu-light&hide_border=true&border_radius=3.8&card_width=600)](https://git.io/streak-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrllyhim&layout=compact&theme=ayu-light&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <h3>My Github Stats</h3>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=itsrllyhim" alt="GitHub Streak">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrllyhim" alt="GitHub Languages" width=auto height=195px>
+    </a>
+</div>
